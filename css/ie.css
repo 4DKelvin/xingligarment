@@ -1,0 +1,5 @@
+.login-panel{padding:0px; width:440px; line-height:50px;}
+.login-panel .logo{margin:25px 15px;}
+.login-panel label{ padding-bottom:5px;}
+.login-panel input[type=submit]{margin:5px 45px 15px; float:right;}
+#leftmenu li{float:left;}
